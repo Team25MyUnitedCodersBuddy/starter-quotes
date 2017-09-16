@@ -8,6 +8,10 @@ Project contributors:
 - Tim
 - Karl
 
+## [v0.2.1] - Sept 16, 11.10 am
+### Added
+- Added tooltip to each actor
+
 ## [v0.1.0] - Sept 16, 11.00 am
 ### Added
 - Added Donald Trump as a new entry to the the list of actors.
