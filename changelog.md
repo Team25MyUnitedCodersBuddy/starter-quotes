@@ -8,6 +8,15 @@ Project contributors:
 - Tim
 - Karl
 
+## [v0.3.0] - Sept 16, 5.37 pm
+### Added
+- New functionality makes it possible for individual actor records to be shown.
+- All actors on homepage have new, corresponding, individual actor pages
+
+### Changed
+- Homepage now includes links to individual actor pages via image links
+
+
 ## [v0.2.1] - Sept 16, 11.10 am
 ### Added
 - Added tooltip to each actor
